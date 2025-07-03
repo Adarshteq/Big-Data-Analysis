@@ -1,16 +1,4 @@
-# 🛒 E-commerce Sales Data Analysis with Dask
-
-**Company**: Codtech IT Solutions  
-
-**Intern**: Addanki Adarsh  
-
-**Intern ID**: CT06DN221  
-
-**Domain**: Data Analytics  
-
-**Duration**: 6 Weeks  
-
-**Mentor**: Neela Santhosh Kumar
+## 🛒 E-commerce Sales Data Analysis with Dask
 
 ## 📌 Project Overview
 
