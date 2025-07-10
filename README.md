@@ -14,8 +14,6 @@ Processing and analyzing such data using traditional pandas methods often result
 
 This project overcomes these limitations using **Dask**, enabling distributed computing and out-of-core processing to derive insights efficiently.
 
-![image](https://github.com/user-attachments/assets/45088028-9b53-4cbd-95f8-4d7cac873881)
-
 ## 🎯 Objectives
 
 - To explore, clean, and analyze a large e-commerce sales dataset.
